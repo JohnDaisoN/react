@@ -1,0 +1,46 @@
+create var in app.js
+booleand and objects cannot be done
+
+component theretree
+
+root - app.js
+navbar.js, sidebar.js - children of root app\\\
+self closing types prefered
+
+
+any element on website gets addded on app.css
+not scoped to single component
+
+hover events, click events, scroll events....
+difference between passing parameter and non paramet passed functions
+event parameters
+
+using state(useState hook)
+variables that might change over time
+
+const [name, setName] = useState('MARIO');
+SETnAME('LUIGI);
+USESTATE Cn ve used qirh numbers, bool, objs export
+
+output lists
+map - cycle item in array and does smth - used for reducing repetitive code
+blogs.map() => <div classname - ...>
+each smth needs a key property to keep track of items by react to distingidh normal list items - usually it is an id
+key = blog.id 
+add css to make them bettwer
+
+props
+repeatedly used components like blog maps - reusing same logic in different components
+different data can be used each tim ein new prop used
+poprs help use pass on data from parent component to child components
+
+props is an abject useable as argument to any prop file
+
+props help access data from other parent components
+
+reuisn components
+
+usimg same component but with filter method to filter out elements based on conditon like bool values for characterisitcs
+
+
+functions a props - button to delete props for eg

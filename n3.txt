@@ -1,0 +1,17 @@
+there are many componnts created to rendered to react dom
+components contain template and logic like html and js
+root componet - only default components
+function app() returns something lile html code
+function start with caps
+the html like code is actually jsx - uses babble to convert jsx to html
+diff - in jsx we use className - converts to class in html
+
+older react versions required import react statement in all components individually
+
+div.content - gives class name emmet content
+
+export defalt app - used in different files to export compoonets to used in render file index.js
+functions usaually have to return smth- isually a jsx file code
+
+basically npm and nvm - require high net
+npm run build can work maybe idk
