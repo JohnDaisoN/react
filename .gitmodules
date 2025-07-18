@@ -1,0 +1,3 @@
+[submodule "dojo-blog"]
+	path = dojo-blog
+	url = https://github.com/JohnDaisoN/react.git

@@ -1,0 +1,10 @@
+reusing components
+we might have mult posts
+how can we output mul from one comp
+
+2.19 - props object used to dynamically pass values to components - easy
+2.20 - Post.modules.css files creatin for unique id generation to avoid clashed between components - import classes from the file
+2.23 - sibling elements not allowed - solved by empty parent wrapper whopper
+2.24 - loading new states - event.target.value - cna be logged to console screen - target may be the textarea and value is actualuser input?, on keyword used for onChange = {ufnc_name}
+2.25 - useState hook of react helps us to reload the component - setchangefunctionname is used to update the dafault vvalue of the hook 
+2.27 - children prop - used for clarifying positioninh of children components
